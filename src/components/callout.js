@@ -4,7 +4,7 @@ const CalloutSection = () => (
   <section className="callout">
     <div className="container text-center">
       <h2 className="mx-auto mb-5">
-        Welcome to <em>your</em> next website!
+        Checkout <em>my</em> resume!
       </h2>
       <a
         className="btn btn-primary btn-xl"

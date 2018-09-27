@@ -18,7 +18,7 @@ class Sidebar extends React.Component {
         url: "#about"
       },
       {
-        title: "Services",
+        title: "Skills",
         url: "#services"
       },
       {
